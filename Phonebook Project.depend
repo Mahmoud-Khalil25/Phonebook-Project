@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1577010030 source:c:\users\johns\desktop\phonebook project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"Read.h"
+	"Menu.h"
+	"Modify.h"
+	"Sort_List.h"
+	"Validate.h"
+	"Search.h"
+	"Add_Delete.h"
+	"Save_Quit.h"
+
+1577009507 c:\users\johns\desktop\phonebook project\read.h
+
+1577009507 c:\users\johns\desktop\phonebook project\menu.h
+	"Read.h"
+
+1577009507 c:\users\johns\desktop\phonebook project\modify.h
+	"Read.h"
+
+1577009681 c:\users\johns\desktop\phonebook project\sort_list.h
+	"Read.h"
+
+1577009758 c:\users\johns\desktop\phonebook project\validate.h
+	"Read.h"
+
+1577010099 c:\users\johns\desktop\phonebook project\search.h
+	"Read.h"
+
+1577010040 c:\users\johns\desktop\phonebook project\add_delete.h
+	"Read.h"
+
+1577010040 c:\users\johns\desktop\phonebook project\save_quit.h
+	"Read.h"
+
